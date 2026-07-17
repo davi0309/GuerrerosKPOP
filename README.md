@@ -1,0 +1,2 @@
+# GuerrerosKPOP
+Computación grafica
