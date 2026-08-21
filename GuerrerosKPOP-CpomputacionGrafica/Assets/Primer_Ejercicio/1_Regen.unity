@@ -145,12 +145,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 27433650}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.22022136, y: 0.6757802, z: -0.18118401, w: 0.679703}
-  m_LocalPosition: {x: 0.07, y: 1.77, z: -0.72}
+  m_LocalRotation: {x: 0.11483937, y: -0.47150052, z: -0.26103064, w: 0.83448315}
+  m_LocalPosition: {x: 0.3153432, y: 1.9210298, z: 0.65107495}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1228766715}
+  m_Father: {fileID: 495105124}
   m_LocalEulerAnglesHint: {x: -3.124, y: 90.594, z: -33.008}
 --- !u!199 &27433652
 ParticleSystemRenderer:
@@ -256,7 +256,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0
+    scalar: 2
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -316,7 +316,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 4
+      scalar: 6
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -1558,7 +1558,7 @@ ParticleSystem:
         m_RotationOrder: 4
     separateAxes: 0
   ColorModule:
-    enabled: 0
+    enabled: 1
     gradient:
       serializedVersion: 2
       minMaxState: 1
@@ -1583,17 +1583,17 @@ ParticleSystem:
         ctime6: 0
         ctime7: 0
         atime0: 0
-        atime1: 65535
-        atime2: 0
-        atime3: 0
+        atime1: 32575
+        atime2: 43562
+        atime3: 56283
         atime4: 0
         atime5: 0
         atime6: 0
         atime7: 0
         m_Mode: 0
-        m_ColorSpace: -1
+        m_ColorSpace: 0
         m_NumColorKeys: 2
-        m_NumAlphaKeys: 2
+        m_NumAlphaKeys: 3
       minGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -9935,12 +9935,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 158039852}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.18076865, y: -0.68097645, z: 0.22056378, w: 0.6744965}
-  m_LocalPosition: {x: 0.07, y: 1.77, z: -0.72}
+  m_LocalRotation: {x: -0.26124787, y: -0.83359194, z: -0.11434689, w: -0.47307384}
+  m_LocalPosition: {x: 0.3153432, y: 1.9210298, z: 0.65107495}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1228766715}
+  m_Father: {fileID: 495105124}
   m_LocalEulerAnglesHint: {x: 3.241, y: -89.588, z: 32.998}
 --- !u!199 &158039854
 ParticleSystemRenderer:
@@ -10046,7 +10046,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0
+    scalar: 2
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -10106,7 +10106,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 4
+      scalar: 6
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -11348,7 +11348,7 @@ ParticleSystem:
         m_RotationOrder: 4
     separateAxes: 0
   ColorModule:
-    enabled: 0
+    enabled: 1
     gradient:
       serializedVersion: 2
       minMaxState: 1
@@ -11373,17 +11373,17 @@ ParticleSystem:
         ctime6: 0
         ctime7: 0
         atime0: 0
-        atime1: 65535
-        atime2: 0
-        atime3: 0
+        atime1: 32575
+        atime2: 43562
+        atime3: 56283
         atime4: 0
         atime5: 0
         atime6: 0
         atime7: 0
         m_Mode: 0
-        m_ColorSpace: -1
+        m_ColorSpace: 0
         m_NumColorKeys: 2
-        m_NumAlphaKeys: 2
+        m_NumAlphaKeys: 3
       minGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -14927,7 +14927,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 1.0829418e+24, y: 4.8418473e+30, z: 2.3750396e+20, w: 6.573344e+28}
+  m_BoundingSphereOverride: {x: 4.27e-43, y: 4.97e-43, z: 0, w: -6.757663e+31}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ForceVisible: 0
@@ -24726,6 +24726,8 @@ Transform:
   - {fileID: 1350155693}
   - {fileID: 908548812}
   - {fileID: 1258753794}
+  - {fileID: 158039853}
+  - {fileID: 27433651}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 1.126, y: 0, z: 0}
 --- !u!1 &515737047
@@ -68986,8 +68988,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1414718088}
-  - {fileID: 27433651}
-  - {fileID: 158039853}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: -0.962, y: -148.598, z: -0.587}
 --- !u!1 &1234815860
