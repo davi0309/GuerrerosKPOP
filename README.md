@@ -1,6 +1,8 @@
 # GuerrerosKPOP
 Computación grafica
 
+## GIF funcionamiento
+
 ## Inicio (1.08s)
 
 Consideramos que el inicio abarca toda la sección que no es loopeable de la animación. En esta primera parte se presentan diferentes sistemas de partículas de manera progresiva, mientras la cruz desciende y se establece la composición visual. Estos elementos funcionan como una introducción, ya que tienen una aparición y un desarrollo específicos que no se repiten posteriormente.
