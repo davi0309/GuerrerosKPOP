@@ -71,7 +71,5 @@ Y finalmente decidimos explorar algo más creativo fuera de los elementos clási
 
 
 
-### Fin de los efectos y transición de la pose de combate al idle
-* **Estela del ataque desvaneciendose** *(rosa)*
 
 
