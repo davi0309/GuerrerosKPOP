@@ -7,14 +7,17 @@ Computación gráfica
 
 ## Primer ataque ( seg 1:1 ) 
 
+<img width="890" height="516" alt="image" src="https://github.com/user-attachments/assets/5240fd27-61d8-48f5-96b6-a96380664599" />
 Desde acá consideramos que empieza la animación del primer ataque con una pequeña anticipación al ponerse en posición para blandir su espada desde abajo hasta arriba
 
 ### Slash 1 ( seg 1:40 )
 
 Buscamos darle un efecto de fuego a este primer ataque, denotado por colores rojizos/anaranjados, además la distorsión da el efecto de ondas de calor que suele dar temperaturas muy elevadas
 
-<img width="733" height="711" alt="Captura de pantalla 2026-08-21 043250" src="https://github.com/user-attachments/assets/599e7731-bf9e-43cb-8762-9cc73daedf96" />
-<img width="636" height="607" alt="Captura de pantalla 2026-08-21 043305" src="https://github.com/user-attachments/assets/ccd29f00-08f5-4a3a-94a9-8b8ce91d0c72" />
+
+<img width="1170" height="692" alt="image" src="https://github.com/user-attachments/assets/102648b5-b48a-427e-bf02-d5e4acbabe8e" />
+<img width="1544" height="781" alt="image" src="https://github.com/user-attachments/assets/19cdfd4c-fba1-43a2-9b23-8aad10b8b043" />
+
 
 ### Imagen 1 — Efecto del slash de fuego
 Compuesto por:
@@ -33,8 +36,11 @@ Compuesto por:
 
 Para este segundo movimiento decidimos explorar un efecto de agua para el slash, caracterizado por tonos azules/blancos asimilando la espuma del agua.
 
-<img width="733" height="711" alt="Captura de pantalla 2026-08-21 043250" src="https://github.com/user-attachments/assets/599e7731-bf9e-43cb-8762-9cc73daedf96" />
-<img width="636" height="607" alt="Captura de pantalla 2026-08-21 043305" src="https://github.com/user-attachments/assets/ccd29f00-08f5-4a3a-94a9-8b8ce91d0c72" />
+<img width="1245" height="728" alt="image" src="https://github.com/user-attachments/assets/c736ac1c-ebcc-4c6f-9f5e-8de2aaf9d17f" />
+
+<img width="1197" height="739" alt="image" src="https://github.com/user-attachments/assets/3a438df5-1b72-48ab-9142-255ddfe6c276" />
+
+
 
 ### Imagen 1 - El efecto del agua
 
@@ -48,8 +54,9 @@ Aquí volvemos a indicar el choque de nuestro ataque contra algun objeto haciend
 Y finalmente decidimos explorar algo más creativo fuera de los elementos clásicos de fuego, agua, tierra, viento; decidimos explorar la manera de hacer un ataque de galaxia, nos imaginamos que debería tener muchos tonos morados, negros y blancos. También incorporamos unas estrellas para reforzar el feeling espacial de el ataque.
 
 
-<img width="733" height="711" alt="Captura de pantalla 2026-08-21 043250" src="https://github.com/user-attachments/assets/599e7731-bf9e-43cb-8762-9cc73daedf96" />
-<img width="636" height="607" alt="Captura de pantalla 2026-08-21 043305" src="https://github.com/user-attachments/assets/ccd29f00-08f5-4a3a-94a9-8b8ce91d0c72" />
+<img width="857" height="679" alt="image" src="https://github.com/user-attachments/assets/84300fa9-e811-4fcc-9b8f-4d374f7d5539" />
+<img width="1245" height="716" alt="image" src="https://github.com/user-attachments/assets/85f6747c-bc39-4d3a-9b3c-1b896fffd689" />
+
 
 
 
