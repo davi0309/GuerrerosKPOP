@@ -1,4 +1,4 @@
-# GuerrerosKPOP
+# Ejercicio Slash
 Computación gráfica
 
 ## GIF funcionamiento 
