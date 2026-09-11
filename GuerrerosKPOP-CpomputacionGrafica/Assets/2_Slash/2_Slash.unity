@@ -227,7 +227,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7fa40c12f5a4ef846a107f5f29321a3a, type: 2}
+  - {fileID: 2100000, guid: 0f051729a185e764cad614ef79a3caaf, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -19797,31 +19797,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7455052563442308447, guid: 036ffb35b08df8d5c963f77a784a0323, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.014385343
+      value: 0.81600916
       objectReference: {fileID: 0}
     - target: {fileID: 7455052563442308447, guid: 036ffb35b08df8d5c963f77a784a0323, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.3530262
+      value: 1.4116917
       objectReference: {fileID: 0}
     - target: {fileID: 7455052563442308447, guid: 036ffb35b08df8d5c963f77a784a0323, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.46392488
+      value: -0.0729596
       objectReference: {fileID: 0}
     - target: {fileID: 7455052563442308447, guid: 036ffb35b08df8d5c963f77a784a0323, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.23097037
+      value: 0.6999614
       objectReference: {fileID: 0}
     - target: {fileID: 7455052563442308447, guid: 036ffb35b08df8d5c963f77a784a0323, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.92149
+      value: -0.21298155
       objectReference: {fileID: 0}
     - target: {fileID: 7455052563442308447, guid: 036ffb35b08df8d5c963f77a784a0323, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.31041542
+      value: 0.21801776
       objectReference: {fileID: 0}
     - target: {fileID: 7455052563442308447, guid: 036ffb35b08df8d5c963f77a784a0323, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.03392862
+      value: -0.6458801
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
