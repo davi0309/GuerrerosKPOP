@@ -3,7 +3,7 @@ Computación gráfica
 
 ## GIF funcionamiento 
 
-[AtaquesVFX](https://www.youtube.com/watch?v=psxMhsc_iNg)
+[AtaquesVFX]([https://www.youtube.com/watch?v=psxMhsc_iNg](https://youtu.be/iTGMid2Y4QM))
 
 ## Primer ataque ( seg 1:1 ) 
 
