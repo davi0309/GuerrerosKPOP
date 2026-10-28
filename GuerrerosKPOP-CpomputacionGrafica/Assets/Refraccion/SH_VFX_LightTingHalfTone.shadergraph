@@ -1576,7 +1576,7 @@
     "m_ObjectId": "111f6690f03b43238ac40016ea38416e",
     "m_Title": "Object Depth",
     "m_Position": {
-        "x": -3693.599853515625,
+        "x": -3693.60009765625,
         "y": 2828.0
     }
 }
@@ -2701,7 +2701,7 @@
     "m_ObjectId": "437e4fafec2e4fa2ac366634f75e4ed4",
     "m_Title": "Halftone Object",
     "m_Position": {
-        "x": -1135.9998779296875,
+        "x": -1136.0,
         "y": 2816.0
     }
 }
@@ -5426,7 +5426,7 @@
     "m_Title": "Lamber Driven Circle Object",
     "m_Position": {
         "x": -534.39990234375,
-        "y": 1733.5999755859375
+        "y": 1733.599853515625
     }
 }
 
