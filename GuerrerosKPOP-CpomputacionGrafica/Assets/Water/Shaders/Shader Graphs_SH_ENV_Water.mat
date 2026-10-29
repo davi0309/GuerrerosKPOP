@@ -58,7 +58,7 @@ Material:
     - _NormalStrengh: 0.01
     - _QueueControl: 0
     - _RefractionStrength: 0.23
-    - _choppines: 0.1
+    - _choppines: 0.05
     - _int: 0.74
     - _olas_size: 1.09
     - _reflejo_intensidad: 0.56
