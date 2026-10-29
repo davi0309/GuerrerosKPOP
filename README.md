@@ -95,7 +95,11 @@ Finalmente, el disipado corresponde al momento en que estos trails comienzan a d
 
 ### Estilizado Cartoon
 
-<img width="525" height="397" alt="image" src="https://github.com/user-attachments/assets/72e55335-e0b6-4236-9969-f5a3ad1b79dd" />
+
+
+
+
+
 
 Para este estilizado tomamos de refrente principal el agua de zelda wind waker:
 
