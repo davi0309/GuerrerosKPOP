@@ -52,3 +52,49 @@ Finalmente, el disipado corresponde al momento en que estos trails comienzan a d
 * **Curvas girando alrededor** *(amarillo)*
 * **Base que se disuelve** *(verde)*
 
+
+ 
+## Entrega 3 agua cartoon
+
+### DISPLACEMENTE
+
+<img width="588" height="339" alt="image" src="https://github.com/user-attachments/assets/b60bf859-edd5-42b6-9560-ed27e6cd65a4" />
+
+### Screen space refractiones
+
+<img width="889" height="565" alt="image" src="https://github.com/user-attachments/assets/a7770b94-0531-49b0-b5e5-8938aadb8529" />
+
+
+### Cubemap reflections
+
+
+<img width="766" height="460" alt="image" src="https://github.com/user-attachments/assets/368800be-c7c5-45c3-8ed1-0c9b4c4fdfef" />
+
+
+
+### Neblina por profundidad
+
+<img width="223" height="166" alt="image" src="https://github.com/user-attachments/assets/45ffd6bf-82e5-40d7-a672-973a3e8eb40e" />
+
+### Espuma de intersección
+<img width="753" height="371" alt="image" src="https://github.com/user-attachments/assets/e01bcdd1-7488-4978-8ac6-3ad17d02508a" />
+
+
+
+### iluminación especular
+<img width="1025" height="586" alt="image" src="https://github.com/user-attachments/assets/521655ea-2341-4cc7-81dc-8f8f187da98c" />
+
+
+### Espuma de oleaje
+<img width="883" height="493" alt="image" src="https://github.com/user-attachments/assets/2061de03-112e-495b-9b2e-bca0a6e4e0e0" />
+
+
+### Estilizado Cartoon
+
+<img width="525" height="397" alt="image" src="https://github.com/user-attachments/assets/72e55335-e0b6-4236-9969-f5a3ad1b79dd" />
+
+Para este estilizado tomamos de refrente principal el agua de zelda wind waker:
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/d80898f4-ff53-4a2a-ad46-e3665cf607d5" />
+
+
