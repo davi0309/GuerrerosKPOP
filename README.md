@@ -63,31 +63,34 @@ Finalmente, el disipado corresponde al momento en que estos trails comienzan a d
 
 ### Screen space refractiones
 
-<img width="889" height="565" alt="image" src="https://github.com/user-attachments/assets/a7770b94-0531-49b0-b5e5-8938aadb8529" />
+<img width="797" height="487" alt="image" src="https://github.com/user-attachments/assets/7b082044-5c22-4143-8210-0f7a9cbdbb3d" />
 
 
 ### Cubemap reflections
 
 
-<img width="766" height="460" alt="image" src="https://github.com/user-attachments/assets/368800be-c7c5-45c3-8ed1-0c9b4c4fdfef" />
+<img width="634" height="451" alt="image" src="https://github.com/user-attachments/assets/306caf48-4e1b-463a-ab55-8d740043220e" />
+
 
 
 
 ### Neblina por profundidad
 
-<img width="223" height="166" alt="image" src="https://github.com/user-attachments/assets/45ffd6bf-82e5-40d7-a672-973a3e8eb40e" />
+<img width="977" height="513" alt="image" src="https://github.com/user-attachments/assets/dfc55c4f-14e5-4f78-8f71-ebe43aa54000" />
 
 ### Espuma de intersección
-<img width="753" height="371" alt="image" src="https://github.com/user-attachments/assets/e01bcdd1-7488-4978-8ac6-3ad17d02508a" />
+<img width="977" height="513" alt="image" src="https://github.com/user-attachments/assets/42fb0888-d392-457a-890d-2359f034e406" />
+
 
 
 
 ### iluminación especular
-<img width="1025" height="586" alt="image" src="https://github.com/user-attachments/assets/521655ea-2341-4cc7-81dc-8f8f187da98c" />
+<img width="996" height="558" alt="image" src="https://github.com/user-attachments/assets/1c90a70d-5547-4b52-95c4-d9edef7be22c" />
 
 
 ### Espuma de oleaje
-<img width="883" height="493" alt="image" src="https://github.com/user-attachments/assets/2061de03-112e-495b-9b2e-bca0a6e4e0e0" />
+<img width="633" height="491" alt="image" src="https://github.com/user-attachments/assets/92a86697-ddb6-4cb5-b788-35d51c6a4405" />
+
 
 
 ### Estilizado Cartoon
