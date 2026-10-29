@@ -58,7 +58,8 @@ Finalmente, el disipado corresponde al momento en que estos trails comienzan a d
 
 ### DISPLACEMENTE
 
-<img width="588" height="339" alt="image" src="https://github.com/user-attachments/assets/b60bf859-edd5-42b6-9560-ed27e6cd65a4" />
+<img width="1557" height="704" alt="image" src="https://github.com/user-attachments/assets/0c61a506-4a52-45a2-a524-377738914f37" />
+
 
 ### Screen space refractiones
 
