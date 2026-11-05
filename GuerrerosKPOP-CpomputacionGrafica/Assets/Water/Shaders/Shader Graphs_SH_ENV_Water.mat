@@ -8,8 +8,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Shader Graphs_SH_ENV_Water
-  m_Shader: {fileID: -6465566751694194690, guid: 22c1c49f3b86f2e4e8a712c426c881cc, type: 3}
-  m_Parent: {fileID: -876546973899608171, guid: 22c1c49f3b86f2e4e8a712c426c881cc, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: b02dbc5ec6c7dd344949fbed837f21ca, type: 3}
+  m_Parent: {fileID: 2100000, guid: 2460f5e65307899459471a8a9bab2e0c, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -24,42 +24,21 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _Cubemap:
-        m_Texture: {fileID: 8900000, guid: 38b3439275386f2449c117c552d35270, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _Normal1:
-        m_Texture: {fileID: 2800000, guid: ba7ad1aaa22c5ed4785b5562dfa1f2d6, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _Normal2:
-        m_Texture: {fileID: 2800000, guid: f6e7b4ca17c20b84d9e3b9e63255ce0d, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _Normal3:
-        m_Texture: {fileID: 2800000, guid: ed4330ff3569b434881eadfa2c8df268, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _foam_texture:
-        m_Texture: {fileID: 2800000, guid: 64cec495a5b6c0245980eeb355b9ed2c, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _foam_texture_1:
         m_Texture: {fileID: 2800000, guid: 64cec495a5b6c0245980eeb355b9ed2c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DisplacementScale: 46.3
+    - _DisplacementScale: 10.9
     - _DisplacementStregth: 0
     - _Float: 3.2
     - _Float_1: 1.48
     - _Float_2: 0.87
-    - _NormalStrengh: 0.01
-    - _QueueControl: 0
-    - _RefractionStrength: 0.23
-    - _choppines: 0.05
-    - _int: 0.74
+    - _NormalStrengh: 0
+    - _RefractionStrength: 2.56
+    - _choppines: 0.15
+    - _int: 2.97
     - _olas_size: 1.09
     - _reflejo_intensidad: 0.56
     - _scale_foam: 18.18
@@ -70,7 +49,6 @@ Material:
     - _DisplacementAnimation: {r: 0, g: 11.98, b: 0, a: 0}
     - _LightScatterParams: {r: 0, g: 0, b: 0, a: 0}
     - _ShallowColor: {r: 0, g: 0.5529412, b: 1, a: 0}
-    - _foamcolor: {r: 1, g: 1, b: 1, a: 1}
     - _foamcolor_dark: {r: 0.023985418, g: 0.3780327, b: 0.7264151, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
