@@ -153,10 +153,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PersistentUI
   sortingOrder: 100
   effects:
-  - label: Zoltrak
+  - label: Hechizo
     sceneName: ZOLTRAK_CORREGIDO
-  - label: Zoltrak_pedorro
-    sceneName: zoltrak
+  - label: Flecha
+    sceneName: FlechaSFX
   loadDefaultEffectOnStart: 0
   defaultEffectIndex: 0
   effectButtonsContainer: {fileID: 1819110341}

@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Final/Menu/ZOLTRAK_CORREGIDO.unity
     guid: 9481df7dc81620740a3e1dd59bea1bc5
+  - enabled: 1
+    path: Assets/FinalMiraTriste/Efectos/FlechaSFX.unity
+    guid: 6ebea99089d4e58448f2426dafa9f4b8
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
