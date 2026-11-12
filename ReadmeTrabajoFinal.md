@@ -5,7 +5,7 @@ Computación gráfica
 
 [poderes VFX](https://youtu.be/iTGMid2Y4QM)
 
-## Rayo de poder 
+# Rayo de poder 
 
 <img width="1562" height="642" alt="imagen" src="https://github.com/user-attachments/assets/9ac801c1-bea4-423c-adf9-1b9a11fe4b96" />
 
