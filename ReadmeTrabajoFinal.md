@@ -49,7 +49,33 @@ El efecto de Flecha fue pensado como la habilidad definitiva de Ashe de LOL, con
 
 <img width="1303" height="528" alt="imagen" src="https://github.com/user-attachments/assets/e3eab48d-511f-477c-889c-dc411e8a93e8" />
 
-### Componentes
+### Partes
+
+## Flecha
+
+
+La flecha fue un modelo propia y cuenta en el proprio sistema de particylas con un sistema de partículas que hace que gire, tiene una textura hecha a raíz del mapa de UV del modelo.
+
+<img width="1056" height="475" alt="imagen" src="https://github.com/user-attachments/assets/a90c340a-0ded-47ae-9928-b55a748e3316" />
+
+## Humo y estrellas
+
+El sistema de partículas del humo utiliza un flipbook para simular cómo este se va disipando progresivamente, creando la sensación de que se desvanece mientras sigue la trayectoria de la flecha. Además, cuenta con un sistema de partículas que emite elementos escalados para reforzar la sensación de velocidad y movimiento, y otro que genera pequeñas estrellas que se desplazan en la misma dirección de la flecha, complementando visualmente su recorrido.
+<img width="1451" height="551" alt="imagen" src="https://github.com/user-attachments/assets/f0f9dc20-0971-48c8-a721-a49a38899ecd" />
+
+<img width="1637" height="642" alt="imagen" src="https://github.com/user-attachments/assets/809324eb-4e4a-48d6-b16e-6c17915af10d" />
+
+
+## Trails
+
+Los trails son estos sistemas que tienen 4 diferentes colores/materiales, uno morado y su sombre y uno amarillo y su sombra, estos se crean por medio del shader.
+
+<img width="1635" height="676" alt="imagen" src="https://github.com/user-attachments/assets/eefe2297-6428-43c4-89f0-82b4a2e96a1a" />
+
+
+## Shader
+
+El shader hace un material para el trail y maneja todo de los colores y sombras de esto.
 
 # Zoltraak
 
@@ -72,6 +98,27 @@ Este circulo central tiene tres capas separadas diferentes, la primera es el bor
 Luego contamos con el centro del circulo que carga después del borde, este gira con el resto de las texturas y en un punto de el VFX se reduce para dar este efecto de carga:
 
 <img width="411" height="457" alt="imagen" src="https://github.com/user-attachments/assets/66880143-2665-4bc3-a4a6-5cd7f5a6d366" />
+
+
+Y por ultimo los círculos del centro, estos tienen una intensidad en su color y giran con el resto, incluso se reduce y vuelven a crecer en la parte del ataque:
+<img width="385" height="417" alt="imagen" src="https://github.com/user-attachments/assets/1f82e0f4-a2f6-40e3-b1fe-0ecce1a519d3" />
+
+
+## Ataque de rayo
+El ataque de rayo cuenta con 2 destellos cuando dispara uno principal y otro secundario, el ataque como tal que sale del centro y los destellos que nacen del la base o núcleo del efecto giran, el destello principal es el marcado con rojo y el secundario con amarillo.
+
+<img width="1562" height="647" alt="imagen" src="https://github.com/user-attachments/assets/5a88de0a-0a9e-4f18-bd9b-8c80522145b7" />
+
+
+## Shader
+
+
+Con el Shader se trabajo lo del barrido radial, que ilumina el borde exterior.
+
+
+
+
+
 
 
 
