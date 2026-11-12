@@ -9,7 +9,7 @@ Computación gráfica
 
 <img width="1562" height="642" alt="imagen" src="https://github.com/user-attachments/assets/9ac801c1-bea4-423c-adf9-1b9a11fe4b96" />
 
-Efecto de rayo de poder la idea fue que ll personaje concentra energía en las manos y la libera como un rayo largo, con un núcleo brillante, una capa de electricidad y chispas amarillas alrededor.
+Efecto de rayo de poder la idea fue que el personaje concentra energía en las manos y la libera como un rayo largo, con un núcleo brillante, una capa de electricidad y chispas amarillas alrededor.
 
 ### Componentes
 
@@ -30,13 +30,17 @@ El otro efecto son partículas amarillas alargadas que salen desde el centro hac
 
 El rayo cuanta con 4 efectos que le dan ese efecto y estos son:
 
-- El cuerpo principal o la base del rayo es lo marcado verde y es el haz cian brillante con la textura hecha a mano desplazándose a lo largo del rayo.
+- El cuerpo principal o la base del rayo es lo marcado verde y es el haz cían brillante con la textura hecha a mano desplazándose a lo largo del rayo.
 
-- la sombra es una copia del rayo con blending Alpha y esta marcado en morado, tiene un color oscuro tirando a morado, debajo de la base sse hizo para darle contraste y profundidad al brillo.
+- la sombra es una copia del rayo con blending Alpha y esta marcado en morado, tiene un color oscuro tirando a morado, debajo de la base se hizo para darle contraste y profundidad al brillo.
 
 - el tercer efecto es el marcado en naranja y este es el que le da un efecto doble como se otra linea es una segunda capa de energía con la distorsión (ruido) más alta, para que se vea inestable y eléctrica.
 
-- Y por ultimo esta lo marcado en rojo que son estas íneas amarillas finas que viajan a lo largo del rayo y le dan sensación de velocidad, son un conjunto de particulas circulares escaladas de manera para que queden delgadas.
+- Y por ultimo esta lo marcado en rojo que son estas líneas amarillas finas que viajan a lo largo del rayo y le dan sensación de velocidad, son un conjunto de partículas circulares escaladas de manera para que queden delgadas.
+
+## Shader
+
+En el shader de este VFX lo usan todas las capas del rayo. Cada output del VFX ajusta sus propios valores, así que un mismo shader sirve para la base, la sombra y el rayo de poder, este maneja lo que es el movimiento de la textura para darle ese efecto de rayo y también maneja la distorsion y alpha de este efecto.
 
 
 
