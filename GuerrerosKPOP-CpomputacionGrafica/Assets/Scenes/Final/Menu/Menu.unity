@@ -153,7 +153,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PersistentUI
   sortingOrder: 100
   effects:
-  - label: Hechizo
+  - label: 'Hechizo  '
     sceneName: ZOLTRAK_CORREGIDO
   - label: Flecha
     sceneName: FlechaSFX
