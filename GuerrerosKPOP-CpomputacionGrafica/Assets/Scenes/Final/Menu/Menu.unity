@@ -157,6 +157,8 @@ MonoBehaviour:
     sceneName: ZOLTRAK_CORREGIDO
   - label: Flecha
     sceneName: FlechaSFX
+  - label: Rayo
+    sceneName: Rayo
   loadDefaultEffectOnStart: 0
   defaultEffectIndex: 0
   effectButtonsContainer: {fileID: 1819110341}
