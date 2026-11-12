@@ -90,18 +90,25 @@ Se trabajo con diferentes partes que están subdivididas, primero es el circulo 
 ## Circulo central
 
 Este circulo central tiene tres capas separadas diferentes, la primera es el borde, este es el primero en crearse y cuenta por medio del shader con un barrido radial que es lo que enciende las luces del primer circulo, e exterior.
-<img width="405" height="463" alt="imagen" src="https://github.com/user-attachments/assets/922db072-bd21-4ef8-aa2a-df3823704693" />
+
+
+<img width="1273" height="532" alt="imagen" src="https://github.com/user-attachments/assets/334a5ac5-300e-43f8-b7ec-88f460c02739" />
+
 
 
 
 
 Luego contamos con el centro del circulo que carga después del borde, este gira con el resto de las texturas y en un punto de el VFX se reduce para dar este efecto de carga:
 
-<img width="411" height="457" alt="imagen" src="https://github.com/user-attachments/assets/66880143-2665-4bc3-a4a6-5cd7f5a6d366" />
+
+
+<img width="1242" height="525" alt="imagen" src="https://github.com/user-attachments/assets/1c29e174-0edf-4e37-ab8b-19a8596e14fc" />
+
 
 
 Y por ultimo los círculos del centro, estos tienen una intensidad en su color y giran con el resto, incluso se reduce y vuelven a crecer en la parte del ataque:
-<img width="385" height="417" alt="imagen" src="https://github.com/user-attachments/assets/1f82e0f4-a2f6-40e3-b1fe-0ecce1a519d3" />
+<img width="1227" height="517" alt="imagen" src="https://github.com/user-attachments/assets/a44209d6-da9e-4b11-8ec7-8ae39296f07f" />
+
 
 
 ## Ataque de rayo
