@@ -3,7 +3,7 @@ Computación gráfica
 
 ## GIF funcionamiento y Build
 
-[poderes VFX]([https://youtu.be/iTGMid2Y4QM](https://youtu.be/6C6ece7_0dA))
+[Video de VFX funcionales](https://www.youtube.com/watch?v=6C6ece7_0dA)
 
 [Drive de Build.zip](https://drive.google.com/file/d/1-jfoehhyX7InHX0ZY3EP-rozRMYMI4j9/view?usp=drive_link)
 
