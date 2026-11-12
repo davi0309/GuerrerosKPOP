@@ -28,8 +28,15 @@ El otro efecto son partículas amarillas alargadas que salen desde el centro hac
 <img width="1560" height="650" alt="imagen" src="https://github.com/user-attachments/assets/1cd93c4a-506a-461e-9845-d0a56f4d4fd3" />
 
 
+El rayo cuanta con 4 efectos que le dan ese efecto y estos son:
 
+- El cuerpo principal o la base del rayo es lo marcado verde y es el haz cian brillante con la textura hecha a mano desplazándose a lo largo del rayo.
 
+- la sombra es una copia del rayo con blending Alpha y esta marcado en morado, tiene un color oscuro tirando a morado, debajo de la base sse hizo para darle contraste y profundidad al brillo.
+
+- el tercer efecto es el marcado en naranja y este es el que le da un efecto doble como se otra linea es una segunda capa de energía con la distorsión (ruido) más alta, para que se vea inestable y eléctrica.
+
+- Y por ultimo esta lo marcado en rojo que son estas íneas amarillas finas que viajan a lo largo del rayo y le dan sensación de velocidad, son un conjunto de particulas circulares escaladas de manera para que queden delgadas.
 
 
 
