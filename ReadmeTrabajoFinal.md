@@ -1,11 +1,11 @@
 # Ejercicio Trabajo Final
 Computación gráfica
 
-## GIF funcionamiento 
+## GIF funcionamiento y Build
 
-[poderes VFX](https://youtu.be/iTGMid2Y4QM)
+[poderes VFX]([https://youtu.be/iTGMid2Y4QM](https://youtu.be/6C6ece7_0dA))
 
-[Google Docs](https://drive.google.com/file/d/1-jfoehhyX7InHX0ZY3EP-rozRMYMI4j9/view?usp=drive_link)
+[Drive de Build.zip](https://drive.google.com/file/d/1-jfoehhyX7InHX0ZY3EP-rozRMYMI4j9/view?usp=drive_link)
 
 # Rayo de poder 
 
