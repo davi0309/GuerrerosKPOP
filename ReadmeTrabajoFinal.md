@@ -122,6 +122,14 @@ El ataque de rayo cuenta con 2 destellos cuando dispara uno principal y otro sec
 
 Con el Shader se trabajo lo del barrido radial, que ilumina el borde exterior.
 
+# Global Volume
+
+Se trabajó un **Global Volume independiente para cada VFX**, ajustando la iluminación y los efectos de postprocesamiento según las necesidades visuales de cada uno.
+
+- **Rayo:** Se buscó aumentar la intensidad visual del efecto mediante los ajustes de *Bloom* y *Color Adjustments*, resaltando su brillo y haciendo que el impacto visual fuera más llamativo.
+- **Zoltraak:** Se mejoró la iluminación de las runas para darles mayor protagonismo. También se realizaron ajustes de *Color Adjustments* para intensificar los colores del efecto y transmitir una mayor sensación de magia.
+- **Flecha:** Se trabajó con *Color Adjustments*, *Bloom* y *Vignette* para mejorar la apariencia general del entorno, resaltar los elementos visuales del efecto y darle mayor profundidad a la escena.
+
 
 
 
