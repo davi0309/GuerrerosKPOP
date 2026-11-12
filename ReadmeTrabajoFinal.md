@@ -42,55 +42,38 @@ El rayo cuanta con 4 efectos que le dan ese efecto y estos son:
 
 En el shader de este VFX lo usan todas las capas del rayo. Cada output del VFX ajusta sus propios valores, así que un mismo shader sirve para la base, la sombra y el rayo de poder, este maneja lo que es el movimiento de la textura para darle ese efecto de rayo y también maneja la distorsion y alpha de este efecto.
 
+# Ashe Guardiana Estelar
 
 
+El efecto de Flecha fue pensado como la habilidad definitiva de Ashe de LOL, con tematica de guardiana estelar, este efecto es la flecha, con un estela que deja con efectos de estrella, el modelo y las texturas se trabajaron a mano.
 
-### Imagen 1 — Efecto del slash de fuego
-Compuesto por:
+<img width="1303" height="528" alt="imagen" src="https://github.com/user-attachments/assets/e3eab48d-511f-477c-889c-dc411e8a93e8" />
 
-* Main que da su forma y color principal  
-* Contraste más oscuro para resaltar las partes brillantes
-* Shine para dar la luz que tiene el fuego
-* Hit para indicar la colisión con algo  
+### Componentes
 
+# Zoltraak
 
-### Imagen 2 — Distorsión post slash
-* Se difumina de manera irregular el fuego
-* Una distorsión 
+Este VFX se trabajo la habilidad del personaje Frieren, el efecto son texturas que van cargando y van formando la imagen del hechizo, luego las del centro se contraen y carga el poder.
 
-## Segundo Ataque ( seg 1:72 ) 
+<img width="1072" height="526" alt="imagen" src="https://github.com/user-attachments/assets/dda796a3-e272-4d2b-8546-0919bd76cbb8" />
 
-Para este segundo movimiento decidimos explorar un efecto de agua para el slash, caracterizado por tonos azules/blancos asimilando la espuma del agua.
+### Componentes
 
-<img width="1245" height="728" alt="image" src="https://github.com/user-attachments/assets/c736ac1c-ebcc-4c6f-9f5e-8de2aaf9d17f" />
+Se trabajo con diferentes partes que están subdivididas, primero es el circulo central y después el efecto del rayo:
 
-<img width="1197" height="739" alt="image" src="https://github.com/user-attachments/assets/3a438df5-1b72-48ab-9142-255ddfe6c276" />
+## Circulo central
 
-
-
-### Imagen 1 - El efecto del agua
-
-### Imagen 2 - Hit
-
-Aquí volvemos a indicar el choque de nuestro ataque contra algun objeto haciendo que el agua salpique.
-
-
-## Tercer Ataque ( seg 2:25 ) 
-
-Y finalmente decidimos explorar algo más creativo fuera de los elementos clásicos de fuego, agua, tierra, viento; decidimos explorar la manera de hacer un ataque de galaxia, nos imaginamos que debería tener muchos tonos morados, negros y blancos. También incorporamos unas estrellas para reforzar el feeling espacial de el ataque.
-
-
-<img width="857" height="679" alt="image" src="https://github.com/user-attachments/assets/84300fa9-e811-4fcc-9b8f-4d374f7d5539" />
-<img width="1245" height="716" alt="image" src="https://github.com/user-attachments/assets/85f6747c-bc39-4d3a-9b3c-1b896fffd689" />
+Este circulo central tiene tres capas separadas diferentes, la primera es el borde, este es el primero en crearse y cuenta por medio del shader con un barrido radial que es lo que enciende las luces del primer circulo, e exterior.
+<img width="405" height="463" alt="imagen" src="https://github.com/user-attachments/assets/922db072-bd21-4ef8-aa2a-df3823704693" />
 
 
 
 
-### Imagen 1 - Ataque espacial
+Luego contamos con el centro del circulo que carga después del borde, este gira con el resto de las texturas y en un punto de el VFX se reduce para dar este efecto de carga:
 
-* Efectos de estrella  
-* Contrastes negros más oscuros para reforzar el senimiento de vacío del espacio
-* Destellos como luces de las estrellas
+<img width="411" height="457" alt="imagen" src="https://github.com/user-attachments/assets/66880143-2665-4bc3-a4a6-5cd7f5a6d366" />
+
+
 
 
 
